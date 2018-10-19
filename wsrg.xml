@@ -31,12 +31,12 @@
 
   <!-- for opengapps -->
 
-  <project path="vendor/opengapps/build" name="opengapps/aosp_build" revision="master" />
-  <project path="vendor/opengapps/sources/all" name="opengapps/all" clone-depth="1" revision="master" />
+  <!-- <project path="vendor/opengapps/build" name="opengapps/aosp_build" revision="master" /> -->
+  <!-- <project path="vendor/opengapps/sources/all" name="opengapps/all" clone-depth="1" revision="master" /> -->
 
-  <project path="vendor/opengapps/sources/arm" name="opengapps/arm" clone-depth="1" revision="master" />
-  <project path="vendor/opengapps/sources/arm64" name="opengapps/arm64" clone-depth="1" revision="master" />
+  <!-- <project path="vendor/opengapps/sources/arm" name="opengapps/arm" clone-depth="1" revision="master" /> -->
+  <!-- <project path="vendor/opengapps/sources/arm64" name="opengapps/arm64" clone-depth="1" revision="master" /> -->
 
-  <project name="invisiblek/android_vendor_extra" path="vendor/extra" revision="d7bcc7e1106207e93b1b974aa6be947eded1c3aa" />
+  <!-- <project name="invisiblek/android_vendor_extra" path="vendor/extra" revision="d7bcc7e1106207e93b1b974aa6be947eded1c3aa" /> -->
 
 </manifest>
