@@ -19,7 +19,7 @@
   <project name="TheMuppets/proprietary_vendor_sony" path="vendor/sony" revision="lineage-15.1" />
   <project name="TheMuppets/proprietary_vendor_wileyfox" path="vendor/wileyfox" revision="lineage-15.1" />
   <project name="TheMuppets/proprietary_vendor_wingtech" path="vendor/wingtech" revision="lineage-15.1" />
-  <project name="TheMuppets/proprietary_vendor_xiaomi" path="vendor/xiaomi" revision="lineage-15.1" />
+  <!-- <project name="TheMuppets/proprietary_vendor_xiaomi" path="vendor/xiaomi" revision="lineage-15.1" /> -->
   <project name="TheMuppets/proprietary_vendor_yu" path="vendor/yu" revision="lineage-15.1" />
   <project name="TheMuppets/proprietary_vendor_zuk" path="vendor/zuk" revision="lineage-15.1" />
 
